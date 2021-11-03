@@ -1,0 +1,6 @@
+We will utilize Bulma as out CSS framework (Like Bootstrap, but prettier)
+  - https://bulma.io/
+  - Documentation: https://bulma.io/documentation/
+  - Docs are very helpful and provide example for all the differnt components
+  
+  - We might/can custoize the colors (https://bulma.io/documentation/customize/with-node-sass/) but it might be better to just use the defaults for now and we can change them later in capstone.
